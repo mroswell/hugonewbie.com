@@ -1,11 +1,11 @@
 ---
 title: "Introduction"
-description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+description: "A newbie takes on the Hugo learning curve."
+lead: "A newbie takes on the Hugo learning curve."
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
-images: []
+images: [hugonewbie.png]
 menu:
   docs:
     parent: "prologue"
@@ -13,46 +13,20 @@ weight: 100
 toc: true
 ---
 
-## Get started
+Last year I got excited about Hugo, and agreed to review a Manning book on the subject. I made detailed notes and corrections (though it turned out all they wanted was a book review--not a technical review). A year later, I return to Hugo with both new and somewhat experienced eyes.
 
-There are two main ways to get started with Doks:
+There have been SO many "this could be the tech stack" dreams over the years. (So many tech stacks promise ease that isn't really there...)
 
-### Tutorial
+But I'm thinking Hugo will be a keeper.
 
-{{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." >}}
+That said, it's not without its learning curve, annoyances and challenges.
 
-Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
+I'm working on several Hugo projects now, and it seems the perfect moment to assess:
+- What are some first impressions?
+- What is easy?
+- What is hard?
+- What are some solutions I can build up along the way?
 
-### Quick Start
+I'll do my best to document on this site.
 
-{{< alert icon="👉" text="The Quick Start is intended for intermediate to advanced users." >}}
-
-One page summary of how to start a new Doks project. [Quick Start →]({{< relref "quick-start" >}})
-
-## Go further
-
-Recipes, Reference Guides, Extensions, and Showcase.
-
-### Recipes
-
-Get instructions on how to accomplish common tasks with Doks. [Recipes →](https://getdoks.org/docs/recipes/project-configuration/)
-
-### Reference Guides
-
-Learn how to customize Doks to fully make it your own. [Reference Guides →](https://getdoks.org/docs/reference-guides/security/)
-
-### Extensions
-
-Get instructions on how to add even more to Doks. [Extensions →](https://getdoks.org/docs/extensions/breadcrumb-navigation/)
-
-### Showcase
-
-See what others have build with Doks. [Showcase →](https://getdoks.org/showcase/electric-blocks/)
-
-## Contributing
-
-Find out how to contribute to Doks. [Contributing →](https://getdoks.org/docs/contributing/how-to-contribute/)
-
-## Help
-
-Get help on Doks. [Help →]({{< relref "how-to-update" >}})
+Sincerely, Marjorie Roswell

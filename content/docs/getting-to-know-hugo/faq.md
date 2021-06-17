@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "help"
+    parent: "getting-to-know-hugo"
 weight: 630
 toc: true
 ---
