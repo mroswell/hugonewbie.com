@@ -11,6 +11,7 @@ menu:
     parent: "prologue"
 weight: 100
 toc: true
+url: /
 ---
 
 Last year I got excited about Hugo, and agreed to review a Manning book on the subject. I made detailed notes and corrections (though it turned out all they wanted was a book review--not a technical review). A year later, I return to Hugo with both new and somewhat experienced eyes.

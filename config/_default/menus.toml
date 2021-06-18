@@ -10,10 +10,10 @@
   identifier = "getting-to-know-hugo"
   url = "/docs/getting-to-know-hugo/"
 
-[[main]]
-  name = "Docs"
-  url = "/docs/prologue/introduction/"
-  weight = 10
+#[[main]]
+#  name = "Docs"
+#  url = "/docs/prologue/introduction/"
+#  weight = 10
 
 [[main]]
   name = "Blog"

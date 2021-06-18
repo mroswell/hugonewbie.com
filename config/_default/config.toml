@@ -1,4 +1,4 @@
-baseurl = "http://hugonewbie.com"
+baseurl = "https://hugonewbie.com"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
@@ -75,6 +75,7 @@ rel  = "sitemap"
 
 [permalinks]
   blog = "/blog/:title/"
+  docs = "/:sections[1:]/:title/"
 
 [module]
   [[module.mounts]]
