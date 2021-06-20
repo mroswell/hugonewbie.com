@@ -77,7 +77,6 @@ rel  = "sitemap"
   blog = "/blog/:title/"
   docs = "/:sections[1:]/:title/"
 
-
 [module]
   [[module.mounts]]
     source = "node_modules/@hyas/doks/archetypes"
@@ -91,9 +90,9 @@ rel  = "sitemap"
   [[module.mounts]]
     source = "node_modules/@hyas/doks/data"
     target = "data"
-  [[module.mounts]]
-    source = "node_modules/@hyas/doks/layouts"
-    target = "layouts"
+#  [[module.mounts]]
+#    source = "node_modules/@hyas/doks/layouts"
+#    target = "layouts"
   [[module.mounts]]
     source = "node_modules/@hyas/doks/static"
     target = "static"
