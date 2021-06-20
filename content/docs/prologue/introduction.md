@@ -14,7 +14,7 @@ toc: true
 url: "/"
 ---
 
-Last year I got excited about Hugo, and agreed to review a Manning book on the subject. I made detailed notes and corrections (though it turned out all they wanted was a book review--not a technical review). A year later, I return to Hugo with both new and somewhat experienced eyes.
+Last year I got excited about Hugo, completed some tutorials, and then agreed to review a Manning book on the subject. I made detailed notes and corrections (though it turned out all they wanted was a book review--not a technical review). A year later, I return to Hugo with intention to learn, use, and document.
 
 There have been SO many "this could be the tech stack" dreams over the years. (So many tech stacks promise ease that isn't really there...)
 

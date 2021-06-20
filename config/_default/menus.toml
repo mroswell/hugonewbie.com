@@ -10,6 +10,12 @@
   identifier = "getting-to-know-hugo"
   url = "/getting-to-know-hugo/"
 
+[[docs]]
+  name = "Solutions"
+  weight = 100
+  identifier = "solutions"
+  url = "/solutions/"
+
 #[[main]]
 #  name = "Docs"
 #  url = "/"
