@@ -16,10 +16,10 @@
   identifier = "solutions"
   url = "/solutions/"
 
-[[main]]
-  name = "Hugo Newbie"
-  url = "/"
-  weight = 10
+#[[main]]
+#  name = "Hugo Newbie"
+#  url = "/"
+#  weight = 10
 
 [[main]]
   name = "Blog"
